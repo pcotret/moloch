@@ -301,7 +301,7 @@ TSWLatexianTemp*
 #*Notes.bib
 
 # Ignore sty files generated from dtx
-*.sty
+#*.sty
 doc/moloch.pdf
 examples/demo/demo.pdf
 build/
